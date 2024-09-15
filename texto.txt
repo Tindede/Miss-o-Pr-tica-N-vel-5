@@ -1,0 +1,4 @@
+Esta é a primeira frase do arquivo.
+Aqui temos a segunda frase.
+Esta é a terceira frase que será escrita no arquivo.
+E finalmente, a quarta e última frase.
